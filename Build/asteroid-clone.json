@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "asteroid-clone.data.unityweb",
+"asmCodeUrl": "asteroid-clone.asm.code.unityweb",
+"asmMemoryUrl": "asteroid-clone.asm.memory.unityweb",
+"asmFrameworkUrl": "asteroid-clone.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
